@@ -1,6 +1,6 @@
 # Тестовое задание
 
-Необходимо написать небольшое приложение на django и django_rest_framework
+Необходимо написать небольшое приложение на django и django_rest_framework/django-ninja
 
 
 Модели:
