@@ -36,9 +36,10 @@ Advert - объявление, поля: created (дата создания), ti
    cd larixon_test
 
 3. Соберите и запустите контейнер:
+   
    docker-compose up -d --build
 
-4. Создайте суперпользователя:
+5. Создайте суперпользователя:
 
    docker-compose exec web python manage.py createsuperuser
 
